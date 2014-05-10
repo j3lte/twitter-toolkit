@@ -1,0 +1,13 @@
+.git*
+docs/
+examples/
+support/
+test/
+test.js
+testing.js
+config.js
+output/
+out/
+.DS_Store
+coverage.html
+lib-cov

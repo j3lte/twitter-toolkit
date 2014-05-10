@@ -1,0 +1,34 @@
+{
+  "name": "twitter-toolkit",
+  "version": "0.1.2",
+  "description": "Toolkit, doing Twitter things from commandline",
+  "main": "app.js",
+  "scripts": {
+      "test": "grunt"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/j3lte/twitter-toolkit.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "private": true,
+  "author": "Jelte Lagendijk <jwlagendijk@gmail.com> (http://jeltelagendijk.nl/)",
+  "contributors": { 
+    "name" : "@JvdMeulen",
+    "url" : "http://twitter.com/JvdMeulen"
+  },
+  "license": "MIT",
+  "dependencies": {
+      "twit": "^1.1.15",
+      "colors": "*",
+      "underscore": "*"
+  },
+  "devDependencies": {
+      "grunt": "latest",
+      "grunt-contrib-jshint": "latest",
+      "grunt-contrib-watch": "latest",
+      "grunt-jslint": "latest"
+  }
+}
