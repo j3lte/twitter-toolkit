@@ -3,7 +3,8 @@ twitter-toolkit
 
 I created this toolkit as one of my first NodeJS projects. Beware that some of my code can be inefficient. In a different version I will clean this up, for now I just wanted to share what I had build then (somewhere at the end of 2012, if I am correct).
 
-With that idea in place, I also got some help from [JvdMeulen](https://twitter.com/JvdMeulen), because he was way better in writing regular expressions than I was.
+Credits to [JvdMeulen](https://twitter.com/JvdMeulen), he created a big chuck of the initial code. Great job, Jasper! Hope to see more of your work at logt.nu (He has a snowtracker on [sneeuw.logt.nu](http://sneeuw.logt.nu)
+
 
 It is a simple app that does a couple of things. You can dump all tweets into an automatically generated file. On the commandline you will see it in different colors.
 
